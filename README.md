@@ -1,4 +1,4 @@
-# Traveloka Chatbot Project
+# Sinyal Bahasa Project
 Welcome to Traveloka Chatbot Project from C22-CB04 Team
 
 ## Background Story:
