@@ -34,10 +34,10 @@ Has several responsibility such as:
 3. Library: Pandas, Tensorflow, Seaborn, Sklearn
 
 ### Mobile Development
-1. Text Editor: Android Studio
-2. Collaboration Tools: Github
-3. Programming Language: Kotlin
-4. Design Tools: Figma
+1. Programming Language: Kotlin
+2. Text Editor: Android Studio 
+3. Design UI&UX Tools: Figma
+4. Collaboration Reposiy: Github
 5. Prototype: [Click Here](https://example.com)
 
 ### Cloud Computing
