@@ -1,0 +1,9 @@
+[submodule "sinyal-bahasa-cc-laravel"]
+	path = sinyal-bahasa-cc-laravel
+	url = https://github.com/KNobHack/sinyal-bahasa-cc-laravel.git
+[submodule "sinyal-bahasa-fastapi"]
+	path = sinyal-bahasa-fastapi
+	url = https://github.com/KNobHack/sinyal-bahasa-fastapi.git
+[submodule "sinyal-bahasa-md"]
+	path = sinyal-bahasa-md
+	url = https://github.com/Alex2sf/capstoneSinyal.git
