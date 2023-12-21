@@ -1,8 +1,10 @@
 # Sinyal Bahasa Project
-Welcome to Traveloka Chatbot Project from C22-CB04 Team
+Welcome to Sinyal Bahasa Project from CH2-PS483 Team
 
 ## Background Story:
-It’s important to company in this present day to have a tools that can help them to handle a complaint by a customer, and therefore there is customer service, but what if the proportion of customer service and customer complaint is not proportional, it will give a difficult time to the company, and therefore our group make a Chatbot that can handle the complaint by a customer. Our chatbot can answer automatically without waiting in advance for a customer. Our feature it’s just not handle a customer complain, but also have any other feature such as give a suggestion for recommendation place that must visit in the selected city and can reply the greetings too.
+In addressing the critical issue of accessibility and inclusion for the deaf community, particularly those who rely on sign language, we embarked on the development of an innovative application named 'Sinyal (Sarana Informasi Nge-Sibi yang Asik dan Lancar).' Recognizing that over 2,500,000 deaf and Sibi (Sistem Isyarat Bahasa Indonesia) users in Indonesia often face social isolation due to the reliance on verbal communication, we aimed to bridge this gap. Despite existing efforts to create technology for sign language translation, the adoption of such solutions in Indonesia remained suboptimal.
+Our team, comprising individuals with varying levels of IT experience, faced the challenges of navigating this new domain. The initial execution deviated from the predefined timeline, but our collective adaptability and improvisation skills allowed us to course-correct effectively, ensuring the project's timely completion. The application, featuring a user-friendly interface, accelerates sign language translation and incorporates engaging mini-games for learning Sibi. The inclusion of an 'events' feature facilitates community interaction between sign language and spoken language users. With the successful development of 'Sinyal Bahasa,' our vision is realized—a platform of equality fostering learning, development, and empowerment within the deaf community.
+
 
 ## Machine Learning Team
 Has several responsibility such as:
@@ -46,12 +48,10 @@ Has several responsibility such as:
 
 ## Contributor
 
-1. M7004F0192 - [Annisa Rahmawati](https://www.linkedin.com/in/annisa-rahmawati-aa58ab1b1/) - Institut Teknologi Sepuluh Nopember - Machine Learning
-2. M2391F2948 - [Bonifassius Mamerutama](https://www.linkedin.com/in/bonifm/) - Universitas Sanata Dharma - Machine Learning
-3. M7004F0208 - [Irfan Andre Dharmawan](https://www.linkedin.com/in/irfanandre/) - Institut Teknologi Sepuluh Nopember - Machine Learning
-4. C2224X2038 - [Aulia Astika](https://www.linkedin.com/in/aulia-astika/) - Universitas Islam Negeri Syarif Hidayatullah - Cloud Computing
-5. C7144G1643 - [Yuda Adi Pratama](https://www.linkedin.com/in/yuda-adi-pratama/) - Universitas Nusa Mandiri - Cloud Computing
-6. C2144G1640 - [Yurika Prisilia Yoanda](https://www.linkedin.com/in/yurika-prisilia-yoanda-89b7b1161) - Universitas Nusa Mandiri - Cloud Computing
-7. A2009G0941 - [Felix Mario Chrisanto Adi](https://www.linkedin.com/in/felix-mario-chrisanto-adi-33a209227/) - Universitas Gunadarma - Mobile Development- Learningpath
-8. A2144G1644 - [Rivaldo Juliano](https://www.linkedin.com/in/rivaldo-juliano-a896a0188/) - Universitas Nusa Mandiri - Mobile Development
-9. A2211F1948 - [Suciati](https://www.linkedin.com/in/suci-ati-28457a236/) - Universitas Indraprasta PGRI - Mobile Development
+1. M010BSY1418 - [Muhammad Vitra Ramadhan](linkedin) - Universitas Indonesia - Machine Learning 
+2. M010BSX1218 - [Aurareta Azzarinnova Aribowo](linkedin)  - Universitas Indonesia - Machine Learning 
+3. M010BSY1768 - [Ega Wahyudi](linkedin) - Universitas Indonesia - Machine Learning 
+4. C299BSY3970 - [Fany Muhammad Fahmi Kamilah](linkedin) - Universitas Pendidikan Indonesia - Cloud Computing 
+5. C256BSY3693 - [Anggita Perdana](linkedin) - Universitas Muhammadiyah Cirebon - Cloud Computing 
+6. A128BSY2300 - [Alex Zaro Daeli](linkedin) - Politeknik Negeri Jakarta - Mobile Development 
+
