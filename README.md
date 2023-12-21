@@ -53,6 +53,6 @@ Has several responsibility such as:
 2. M010BSX1218 - [Aurareta Azzarinnova Aribowo](https://www.linkedin.com/in/aurareta-a-07541321a/)  - Universitas Indonesia - Machine Learning 
 3. M010BSY1768 - [Ega Wahyudi](https://www.linkedin.com/in/ega-wahyudi/) - Universitas Indonesia - Machine Learning 
 4. C299BSY3970 - [Fany Muhammad Fahmi Kamilah](https://www.linkedin.com/in/fanymuhammadfahmi/) - Universitas Pendidikan Indonesia - Cloud Computing 
-5. C256BSY3693 - [Anggita Perdana](linkedin) - Universitas Muhammadiyah Cirebon - Cloud Computing 
+5. C256BSY3693 - [Anggita Perdana](https://linkedin.com/in/anggita-perdana-27bb0173) - Universitas Muhammadiyah Cirebon - Cloud Computing 
 6. A128BSY2300 - [Alex Zaro Daeli](https://www.linkedin.com/in/alexzarodaeli/) - Politeknik Negeri Jakarta - Mobile Development 
 
