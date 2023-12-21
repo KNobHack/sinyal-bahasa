@@ -8,10 +8,11 @@ Our team, comprising individuals with varying levels of IT experience, faced the
 
 ## Machine Learning Team
 Has several responsibility such as:
-1. Collecting and Cleaning dataset
-2. Build a Model with transfer learning
+1. Collecting and pre-processing Data set
+2. Build a model using LSTM
 3. Testing model with model predict
-4. Use the converter to convert models with tensorflow.js
+4. Transfer model  to Cloud Computing
+
 
 ## Mobile Development Team
 Has several responsibility such as:
@@ -26,12 +27,12 @@ Has several responsibility such as:
 4. API deployment
 5. API testing production
 
-## Tools and Resources for Developing Chatbot
+## Tools and Resources for Developing Sinyal Bahasa 
 
 ### Machine Learning
-1. Code Platform: Jupyter Notebook and Google Collaboration
-2. Programming Language: Python
-3. Library: Pandas, Tensorflow, Seaborn, Sklearn
+1. Programming Language: Python
+2. Code Platform: Jupyter Notebook and Google Collaboration
+3. Library : Tensorflow, OpenCV, Mediapipe, Numpy, Matplotlib, Scikit-learn, Tensorboard
 
 ### Mobile Development
 1. Programming Language: Kotlin
@@ -48,10 +49,10 @@ Has several responsibility such as:
 
 ## Contributor
 
-1. M010BSY1418 - [Muhammad Vitra Ramadhan](linkedin) - Universitas Indonesia - Machine Learning 
-2. M010BSX1218 - [Aurareta Azzarinnova Aribowo](linkedin)  - Universitas Indonesia - Machine Learning 
-3. M010BSY1768 - [Ega Wahyudi](linkedin) - Universitas Indonesia - Machine Learning 
-4. C299BSY3970 - [Fany Muhammad Fahmi Kamilah](linkedin) - Universitas Pendidikan Indonesia - Cloud Computing 
+1. M010BSY1418 - [Muhammad Vitra Ramadhan](https://www.linkedin.com/in/muhammad-vitra-ramadhan-6343b01aa/) - Universitas Indonesia - Machine Learning 
+2. M010BSX1218 - [Aurareta Azzarinnova Aribowo](https://www.linkedin.com/in/aurareta-a-07541321a/)  - Universitas Indonesia - Machine Learning 
+3. M010BSY1768 - [Ega Wahyudi](https://www.linkedin.com/in/ega-wahyudi/) - Universitas Indonesia - Machine Learning 
+4. C299BSY3970 - [Fany Muhammad Fahmi Kamilah](https://www.linkedin.com/in/fanymuhammadfahmi/) - Universitas Pendidikan Indonesia - Cloud Computing 
 5. C256BSY3693 - [Anggita Perdana](linkedin) - Universitas Muhammadiyah Cirebon - Cloud Computing 
-6. A128BSY2300 - [Alex Zaro Daeli](linkedin) - Politeknik Negeri Jakarta - Mobile Development 
+6. A128BSY2300 - [Alex Zaro Daeli](https://www.linkedin.com/in/alexzarodaeli/) - Politeknik Negeri Jakarta - Mobile Development 
 
