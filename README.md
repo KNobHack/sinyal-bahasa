@@ -16,8 +16,9 @@ Has several responsibility such as:
 
 ## Mobile Development Team
 Has several responsibility such as:
-1. Developing app interface for chatbot mobile apps
-2. Integrating API to the apps
+1. Design UI/UX interface each frame
+2. Developing app interface for Sinyal Bahasa mobile apps
+3. Integrating API to the apps
 
 ## Cloud Computing Team
 Has several responsibility such as:
