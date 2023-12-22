@@ -18,22 +18,24 @@ Has several responsibility such as:
 Has several responsibility such as:
 1. Design UI/UX interface each frame
 2. Developing app interface for Sinyal Bahasa mobile apps
-3. Integrating API to the apps
+3. Developing authentication mechanisms app
+4. Integrating API to the apps
 
 ## Cloud Computing Team
 Has several responsibility such as:
 1. API endpoint development
-2. API testing development
-3. Prepare infrastructure server
-4. API deployment
-5. API testing production
+2. Prepare server infrastructure 
+3. API testing development
+4. Prepare Could infrastructure 
+5. API deployment
+6. API testing production
 
 ## Tools and Resources for Developing Sinyal Bahasa 
 
 ### Machine Learning
 1. Programming Language: Python
 2. Code Platform: Jupyter Notebook and Google Collaboration
-3. Library : Tensorflow, OpenCV, Mediapipe, Numpy, Matplotlib, Scikit-learn, Tensorboard
+3. Library: Tensorflow, OpenCV, Mediapipe, Numpy, Matplotlib, Scikit-learn, Tensorboard
 
 ### Mobile Development
 1. Programming Language: Kotlin
@@ -45,7 +47,7 @@ Has several responsibility such as:
 ### Cloud Computing
 1. Programming Language: Python, PHP
 2. Cloud Environment: Google Cloud Platform (Cloud Run, Cloud SQL, Cloud Storage, Cloud Build, Container Registry)
-3. Programming Language: Python
+3. Framework: Laravel Framework
 4. Web Server: Flask API
 5. Server: VM Instances
 
