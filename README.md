@@ -42,14 +42,13 @@ Has several responsibility such as:
 2. Text Editor: Android Studio 
 3. Design UI&UX Tools: Figma
 4. Collaboration Reposiy: Github
-5. Prototype: [Click Here](https://example.com)
+5. Link APK: [Click Here](https://example.com)
 
 ### Cloud Computing
 1. Programming Language: Python, PHP
 2. Cloud Environment: Google Cloud Platform (Cloud Run, Cloud SQL, Cloud Storage, Cloud Build, Container Registry)
-3. Framework: Laravel Framework
-4. Web Server: Flask API
-5. Server: VM Instances
+3. Web Server: Flask API, Laravel
+5. Server: Cloud Run
 
 ## Contributor
 
