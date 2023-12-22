@@ -7,3 +7,6 @@
 [submodule "sinyal-bahasa-md"]
 	path = sinyal-bahasa-md
 	url = https://github.com/Alex2sf/capstoneSinyal.git
+[submodule "sinyal-bahasa-ml"]
+	path = sinyal-bahasa-ml
+	url = https://github.com/KNobHack/sinyal-bahasa-ml.git
