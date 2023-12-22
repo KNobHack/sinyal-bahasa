@@ -42,10 +42,11 @@ Has several responsibility such as:
 5. Prototype: [Click Here](https://example.com)
 
 ### Cloud Computing
-1. Cloud Environment: Google Cloud Platform (VM Instances, Cloud Storage, VPC Network)
-2. Programming Language: Python
-3. Web Server: Flask API
-4. Server: VM Instances
+1. Programming Language: Python, PHP
+2. Cloud Environment: Google Cloud Platform (Cloud Run, Cloud SQL, Cloud Storage, Cloud Build, Container Registry)
+3. Programming Language: Python
+4. Web Server: Flask API
+5. Server: VM Instances
 
 ## Contributor
 
